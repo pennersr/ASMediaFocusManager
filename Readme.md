@@ -36,7 +36,7 @@ When focused, an image is shown fullscreen even if the image is smaller than the
 
 All Image sizes are supported.
 
-## Exemple Project
+## Example Project
 See the contained example to get a sample of how `ASMediaFocusManager` can easily be integrated in your project.
 
 To build the example, you first need to run `pod install` from the `Example` directory.
